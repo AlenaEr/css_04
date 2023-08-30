@@ -1,0 +1,77 @@
+body {
+    /* background-color: O#b4b4b4; */
+    background-image: url(../images/pink-flowers.webp);
+}
+
+
+.header__heading--spec {
+    color: #A11414;
+    font-family: Roboto;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.wrapper {
+    width: 89%;
+    margin: 0 auto;
+    background-color: #fff;
+    flex-shrink: 0;
+    border-top: 0;
+
+}
+
+
+.header__heading {
+    margin-top: 96px;
+    margin-bottom: 46px;
+    color: #A11414;
+    font-family: Roboto;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.header__img-wrap {
+    padding: 14px 13px;
+    border-radius: 2px;
+    border: 1px solid #000;
+    background: #FFF;
+}
+
+.header__img-wrap img {
+    width: 100%;
+
+}
+
+.article__heading {
+    color: #A11414;
+    font-family: Roboto;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.nav-wrap {
+    border-radius: 2px 15px;
+    background: #D7D7D7;
+    width: 165px;
+    height: 151px;
+}
+
+.nav li {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+}
