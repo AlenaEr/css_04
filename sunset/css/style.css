@@ -5,19 +5,20 @@ body {
 /* 10 */
 .wrapper {
     width: 89%;
-    padding-top: 0;
     margin: 0 85px 26px 85px;
     background-color: #fff;
     flex-shrink: 0;
     border-top: 0;
-    padding-left: 50px;
-    padding-right: 52px;
+    padding-top: 0;
+    padding-left: 4%;
+    padding-right: 4%;
 }
 
 /* 10 */
 .header__heading {
     font-family: 'Roboto', sans-serif;
-    margin-bottom: 46px;
+    padding-top: 96px;
+    padding-bottom: 46px;
     color: #A11414;
     font-size: 2rem;
     font-style: normal;
@@ -74,10 +75,8 @@ body {
     font-weight: 700;
     text-align: left;
     padding-bottom: 2%;
-    margin: 26px 88px 0 29px;
+    margin: 26px 88px 24px 29px;
     text-transform: uppercase;
-    margin-left: 29px;
-    margin-bottom: 24px;
 }
 
 /* 11 */
@@ -85,7 +84,6 @@ body {
     display: flex;
     justify-content: left;
     align-items: center;
-    margin-bottom: 5px;
 }
 
 /* 11 */
@@ -110,8 +108,8 @@ body {
     line-height: normal;
     letter-spacing: 0em;
     text-align: left;
-    margin-left: 29px;
-    margin-right: 93px;
+    margin-left: 17.6%;
+    margin-right: 56%;
 }
 
 /* 33 */
@@ -139,7 +137,7 @@ body {
 /* Окремий стиль для 3 посилання */
 .nav li:nth-child(3) a {
     font-family: Arial;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 700;
     line-height: 18px;
     letter-spacing: 0em;
@@ -179,7 +177,7 @@ body {
 .article__text--mod {
     font-family: 'Roboto', sans-serif;
     color: #A11414;
-    font-size: 16px;
+    font-size: 1rem;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -189,7 +187,7 @@ body {
 .article__text--add {
     font-family: 'Roboto', sans-serif;
     color: black;
-    font-size: 16px;
+    font-size: 1rem;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
