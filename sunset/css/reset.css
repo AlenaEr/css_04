@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 html {
-	box-sizing: 16px;
+	font-size: 16px;
 }
 
 body {
